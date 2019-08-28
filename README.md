@@ -1,7 +1,7 @@
 # BJTU_Grab_Class
 This is based on the Beijing Jiaotong University graduate course selection platform 
 (https://gsdb.bjtu.edu.cn/course_selection/select/), the training software for everyone to learn.
-Project adapted from https://github.com/johnnyssr/bjtu_grab_class（via python 2.7）
+The project is completed in cooperation with the project(https://github.com/johnnyssr/bjtu_grab_class)（via python 2.7）
 
 This project is based on the python 3.7 environment （via anaconda）
 
